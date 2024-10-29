@@ -1,5 +1,7 @@
 # Snek Game Tkinter
 
+![Screenshot](snek.png)
+
 ## Description
 This is a simple implementation of the classic Snake game using Python's Tkinter library. The game features a snake that moves around the screen, eating food and growing longer with each piece consumed. The objective is to avoid colliding with the walls or the snake's own body.
 
